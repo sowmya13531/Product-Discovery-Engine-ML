@@ -68,7 +68,7 @@ cd Product-Discovery-Engine-ML
 
 ### Run the Streamlit app:
 
-*streamlit run app.py*
+*streamlit run Products_App.py*
 
 ## Locally Running (LocalHost)
 https://localhost:8501
