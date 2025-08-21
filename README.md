@@ -8,7 +8,7 @@ Built with **Machine Learning (Cosine Similarity)** and deployed using **Streaml
 - 🤖 Get **Top 10 recommended products** instantly.  
 - 🖼️ Product **images displayed** for easy visualization.  
 - ⚡ Fast & lightweight — powered by **cosine similarity**.  
-- 🌐 Can be extended with **product links (Amazon/Flipkart)** for real-world e-commerce usage.
+- 🌐 Worked by using Amazon Sales Dataset 2023.
   
 ## 📸 Demo
 ### App Interface
