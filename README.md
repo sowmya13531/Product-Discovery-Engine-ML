@@ -14,9 +14,9 @@ Built with **Machine Learning (Cosine Similarity)** and deployed using **Streaml
 ### App Interface
 ![Product Search](Search.png)  
 
-![Product Discovery]
-(Demo.png)
-(Demo 2.png)
+![Product Discovery](Demo.png)
+
+![Products](Demo2.png)
   
 
 ## 🚀 Tech Stack
