@@ -1,4 +1,4 @@
-# 🛒 Product Recommendation Discovery Engine (ML + Streamlit)
+# 🛒 Product Recommendation Discovery Engine 
 
 A **ML NLP based product recommendation system** that suggests the **Top 10 most similar products** to a selected item.  
 Built with **Machine Learning (Cosine Similarity)** and deployed using **Streamlit** for an interactive UI.  
