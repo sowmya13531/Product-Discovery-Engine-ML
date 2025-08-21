@@ -37,18 +37,18 @@ Built with **Machine Learning (Cosine Similarity)** and deployed using **Streaml
 ## 📂 Project Structure
 
  📦 product-recommendation-engine 
- ┣ 📜 app.py                
-   Streamlit app 
+ ┣ 📜 app.py                 
+ - Streamlit app 
  ┣ 📜 data.pkl              
-   Product dataset 
+ - Product dataset 
  ┣ 📜 similarity.pkl       
-   Similarity matrix 
+ - Similarity matrix 
  ┣ 📜 demo.png             
-   Screenshot of app
+ - Screenshot of app
  ┣ 📜 requirements.txt     
-   Dependencies 
+ - Dependencies 
  ┗ 📜 README.md            
-   Project documentation
+ - Project documentation
 
 
 ## ▶️ Run Locally
