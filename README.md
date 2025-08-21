@@ -16,7 +16,7 @@ Built with **Machine Learning (Cosine Similarity)** and deployed using **Streaml
 
 ![Product Discovery](Demo.png)
 
-![Products](Demo2.png)
+![Products](Demo_2.png)
   
 
 ## 🚀 Tech Stack
