@@ -38,24 +38,24 @@ Built with **Machine Learning (Cosine Similarity)** and deployed using **Streaml
 
  📦 product-recommendation-engine 
  ┣ 📜 app.py                
- # Streamlit app 
+ ## Streamlit app 
  ┣ 📜 data.pkl              
- # Product dataset 
+ ## Product dataset 
  ┣ 📜 similarity.pkl       
- # Similarity matrix 
+ ## Similarity matrix 
  ┣ 📜 demo.png             
- # Screenshot of app
+ ## Screenshot of app
  ┣ 📜 requirements.txt     
- # Dependencies 
+ ## Dependencies 
  ┗ 📜 README.md            
- # Project documentation
+ ## Project documentation
 
 
 ## ▶️ Run Locally
 Clone the project:
 ```bash
-git clone https://github.com/your-username/Product-Discovery-Engine.git
-cd Product-Discovery-Engine
+git clone https://github.com/your-username/Product-Discovery-Engine-ML.git
+cd Product-Discovery-Engine-ML
 ```
 
 ### Install dependencies:
@@ -66,7 +66,7 @@ cd Product-Discovery-Engine
 
 *streamlit run app.py*
 
-##Locally Running (LocalHost)
+## Locally Running (LocalHost)
 https://localhost/8501
 
 ### 🛠️ Future Improvements
